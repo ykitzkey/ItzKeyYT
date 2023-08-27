@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## I am a Discord Dev who
 
 - 🧒 Was totally an **Asian** and TOTALLY got beaten by his mom ...
