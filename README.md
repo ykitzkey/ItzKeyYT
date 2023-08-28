@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Tools And Languages I've Used/Learned:</h3>
-<p align="left"><img src='https://skillicons.dev/icons?i=vscode, js, nodejs, py, html, css, ts'/></p>
+<p align="left"><img src='https://skillicons.dev/icons?i=vscode,js,nodejs,py,html,css,ts'/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItzKeyHeyHeymanCode&show_icons=true&locale=en&layout=compact" alt="ItzKeyHeyHeymanCode" /></p>
 
