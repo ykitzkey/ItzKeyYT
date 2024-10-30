@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">My primary coding language:</h3>
-<p align="left"><img src='https://skillicons.dev/icons?i=js,nodejs,html'/></p>
+<p align="left"><img src='https://skillicons.dev/icons?i=js,nodejs,python,html'/></p>
 
 <h3 align="left">My coding IDE:</h3>
 <p align="left"><img src='https://skillicons.dev/icons?i=vscode'/></p>
